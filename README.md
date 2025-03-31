@@ -4,14 +4,13 @@
 
 ### Overview
 
-This project analyzes the behavior of gold prices during major financial crises to assess its role as a safe-haven asset. Using historical price data from 1993 to 2022, I examined gold’s performance across different timeframes (daily, monthly, and quarterly) and evaluated key financial metrics such as returns, volatility, and drawdowns. Additionally, I built LSTM (Long Short-Term Memory) and XGBoost models to forecast gold prices and compare their predictive performance.
+This project analyzes the behavior of gold prices during major financial crises to assess its role as a safe-haven asset. Using historical price data from 1993 to 2022, I examined gold’s performance across different timeframes (daily, monthly, and quarterly) and evaluated key financial metrics such as returns, volatility, and drawdowns. 
 
 ### Key Objectives
 
 - Investigate gold price trends during financial crises.
 - Evaluate gold’s performance as a safe-haven asset based on returns, volatility, and drawdowns.
 - Compare normal vs. crisis volatility and assess risk.
-- Build machine learning models (LSTM & XGBoost) to forecast gold prices.
 
 ### Dataset
 
@@ -28,20 +27,17 @@ The dataset includes historical gold price data (in USD) along with other curren
 
 1. Preprocessing Data
 2. Safe Haven Analysis
-3. Train and Evaluate Models
-4. Visualization
+3. Visualization
 
 ### Key Findings
 
 - Gold had positive returns in 4 out of 6 crises (67%), reinforcing its reputation as a hedge.
 - Volatility increased in 4 out of 6 crises, indicating higher price fluctuations during economic instability.
-- LSTM outperformed XGBoost, achieving a lower RMSE (23.17 vs. 27.80), suggesting deep learning is more effective for gold price forecasting.
 
 ### Future Work
 
 1. Incorporate macroeconomic indicators (inflation, interest rates, stock market trends).
 2. Use sentiment analysis on news data to predict gold price movements.
-3. Experiment with other deep learning architectures (GRU, Transformer models) for improved forecasting.
 
 ### Source
 
