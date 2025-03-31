@@ -1,4 +1,4 @@
-# Gold Price Behavior During Financial Crises
+# Gold Price Safe Haven Asset Analysis: 
 
 ![screenshot-localhost_8888-2025 03 31-11_49_10](https://github.com/user-attachments/assets/aac1ff8f-45a1-40f7-9731-80f424285a13)
 
